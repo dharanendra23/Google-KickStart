@@ -1,2 +1,2 @@
 # Google-KickStart
-Google KickStart Solutions are available which are done by me using C++ programming language.
+Solved solutions to the first question of all the rounds of Google Kickstart 2020.
