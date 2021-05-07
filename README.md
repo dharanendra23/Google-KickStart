@@ -1,2 +1,2 @@
 # Google-KickStart
-This repositry contains Google kick start solutions which are solved by me.
+This repository contains Google kick start solutions which are solved by me.
