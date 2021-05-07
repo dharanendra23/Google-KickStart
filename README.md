@@ -1,2 +1,2 @@
 # Google-KickStart
-Solved solutions to the first question of all the rounds of Google Kickstart 2020.
+This repositry contains Google kick start solutions which are solved by me.
